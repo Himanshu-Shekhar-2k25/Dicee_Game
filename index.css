@@ -29,26 +29,26 @@ h2{
 }
 .dice{
     border-radius: 10%;
-    height:200px;
+    height:25%;
 
 }
 #dice1{
-    position:relative;
-    top:60px;
+    position:absolute;
+    top:42%;
     left:30%;
 }
 #dice2{
-    position:relative;
-    top:60px;
-    left:42%;
+    position:absolute;
+    top:42%;
+    left:58%;
 }
 button{
     background-color: red;
-    height: 100px;
-    width:  250px;
+    height: 15%;
+    width:  20%;
     position: absolute;
-    left:41%;
-    top:80%;
+    left:40%;
+    top:75%;
     border:4px dotted white;
     border-radius:100px;
     color:white;
