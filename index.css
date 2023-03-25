@@ -43,16 +43,16 @@ h2{
     left:42%;
 }
 button{
-    background-color: red;
-    height: 15%;
-    width:  20%;
+    background-color: lightgreen;
+    height: 100px;
+    width:  300px;
     position: absolute;
     left:40%;
     top:75%;
-    border:4px dotted white;
+    border:15px outset green;
     border-radius:100px;
-    color:white;
+    color:green;
     font-family: 'Lobster',cursive;
-    font-size: 200%;
+    font-size: 300%;
 }
 
